@@ -11,11 +11,13 @@ Berikut isi dari wawancara yang dilakukan dengan narasumber:
 Q: “Baik, Pak. Mari kita mulai wawancaranya.”
 
 A: “Baik. Tapi sinyal saya agak jelek.”
+
 Q: “Bapak dahulu ketika kuliah, Bapak kuliah di mana dan mengambil jurusan apa?”
 
 A: “Dulu saya kuliah di President University, mengambil jurusan Business Administration.”
 
 Q: “Awalnya, Bapak mengambil jurusan Business Administration, lalu sekarang Bapak menjadi seorang UI/UX Designer, Apakah bapak bisa menceritakan pengalaman Bapak hingga Bapak bisa mencapai sejauh ini?”
+
 A: “Sekadar sharing saja. Dahulu, ketika saya baru lulus SMA, saya mengambil jurusan Teknik Perkapalan di ITS. Karena Teknik Perkapalan mempelajari dan mendesain arsitektur kapal, saya jadi bisa desain walau desain teknik. Namun, saya merasa saya tidak mau di ranah ini, saya merasa ingin pindah ke ranah manajemen atau finance, hingga akhirnya saya memilih pindah ke jurusan Business Administration di President University.  Kenapa saya bisa berakhir menjadi UI/UX Designer? Awalnya, ketika kuliah saya mempelajari bisnis administrasi dan bisnis digital. Lalu, saya sempat menonton film The Social Network, film tentang pendiri Facebook, Mark Zuckerberg. Film tersebut menginspirasi saya untuk menciptakan sesuatu. Pada saat saya kuliah, aplikasi mobile memang sudah ada namun belum sebesar, sebanyak dan sebagus sekarang. Hingga, saya mendapat ide: Bagaimana kalau saya membuat bisnis dengan aplikasi? Akhirnya, saya berdiskusi dengan dosen yang familiar dengan ranah aplikasi mobile, hingga akhirnya saya membuat satu aplikasi tentang platform survei untuk membantu mahasiswa. Dari sanalah saya kenal aplikasi. Pada saat itu role saya yaitu mendesain aplikasi tersebut walau masih belum terlalu bagus. Mulai dari situ saya tertarik dan berpikir ‘Bagaimana ya cara membuat tampilan aplikasi lebih bagus lagi?’. Saya pun mulai mengulik dunia desain, mulai dari desain logo, desain poster, hingga desain website dan aplikasi. Karena saya terus mempelajari dan mengulik dunia desain, hingga akhirnya ketika saya lulus, saya memiliki dua pilihan pekerjaan: finance sesuai jurusan atau memberanikan diri menjadi UI/UX Designer. Kemudian, saya memutuskan untuk apply di dua bidang tersebut (finance dan UI/UX Designer), lalu karena saya diterima di bidang UI/UX Designer ditambah saya memang menyukai bidang tersebut, itulah kenapa saya menjadi seorang UI/UX Designer hingga saat ini.”
 
 Q: “Bapak sudah berkecimpung di dunia UI/UX sudah berapa lama, Pak?”

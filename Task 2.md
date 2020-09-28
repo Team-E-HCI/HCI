@@ -4,6 +4,9 @@
 
 Narasumber: 
 Reza Ghazali, founder Zelpro.id dan Lead Product Design di Switch Mobile.
+
+Berikut profil dan track record beliau selama menjadi UI/UX Designer dan Lead Product Design [Linkedin](https://www.linkedin.com/in/reza-ghazali/)
+
 Wawancara dilakukan pada hari Sabtu, 26 September 2020 pukul 20.00 WIB menggunakan platform Zoom Meeting.
 
 Berikut isi dari wawancara yang dilakukan dengan narasumber:
@@ -11,6 +14,7 @@ Berikut isi dari wawancara yang dilakukan dengan narasumber:
 Q: “Baik, Pak. Mari kita mulai wawancaranya.”
 
 A: “Baik. Tapi sinyal saya agak jelek.”
+
 
 Q: “Bapak dahulu ketika kuliah, Bapak kuliah di mana dan mengambil jurusan apa?”
 
