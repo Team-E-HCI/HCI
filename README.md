@@ -5,4 +5,4 @@ Team members:
 - Abdullah Azzam
 - Rudiansyah Wijaya Pratama
 
-> **[Task 1](https://github.com/chasstiefol/HCI/blob/master/task1.md)**
+> **[Task 1](https://github.com/chasstiefol/HCI/blob/master/Task%201/task1.md)**
