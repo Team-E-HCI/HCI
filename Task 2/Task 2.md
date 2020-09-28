@@ -61,3 +61,27 @@ Q: ”Bagaimana cara membuat desain UI/UX yang disukai banyak orang?”
 A: ”Bila membuat sesuatu, seperti website atau aplikasi, yang bagus itu jelas dan sesuai dengan kebutuhan dan keinginan target market. Maksudnya, user harus paham dengan apa yang kita tampilkan di website tersebut, bila user paham maka sukses, bila tidak maka perlu di-improve.”
 
 Klik untuk melihat [Wawancara Daring](https://youtu.be/NMrO83hyRm8) secara full di YouTube.
+
+### Portofolio Narasumber
+<div>
+    <img src="Portofolio\Portofolio(1).png">
+    <img src="Portofolio\Portofolio(2).png">
+    <img src="Portofolio\Portofolio(3).png">
+    <img src="Portofolio\Portofolio(4).png">
+    <img src="Portofolio\Portofolio(5).png">
+    <img src="Portofolio\Portofolio(6).png">
+</div>
+
+<font size="4">
+    Selengkapnya dapat dilihat di <a href="https://www.switchmobile.id">Swicth Mobile</a>
+</font>
+
+
+## Design Improve Mock-Up
+<font size="4">Before:</font>
+<img src="MockUp Design Improve\Before(1).png">
+<img src="MockUp Design Improve\Before(2).png">
+<font size="4">After:</font>
+<img src="MockUp Design Improve\After(1).png">
+<img src="MockUp Design Improve\After(2).png">
+
