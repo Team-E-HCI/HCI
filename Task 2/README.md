@@ -73,15 +73,23 @@ Klik untuk melihat [Wawancara Daring](https://youtu.be/NMrO83hyRm8) secara full 
 </div>
 
 <font size="4">
-    Selengkapnya dapat dilihat di <a href="https://www.switchmobile.id">Swicth Mobile</a>
+    Selengkapnya dapat dilihat di <a href="https://www.switchmobile.id">Switch Mobile</a>
 </font>
 
 
 ## Design Improve Mock-Up
 <font size="4">Before:</font>
 <img src="MockUp Design Improve\Before(1).png">
+<img src="MockUp Design Improve\Before(3).jpeg">
+<img src="MockUp Design Improve\Before(4).jpeg">
 <img src="MockUp Design Improve\Before(2).png">
 <font size="4">After:</font>
 <img src="MockUp Design Improve\After(1).png">
+<img src="MockUp Design Improve\After(3).jpeg">
 <img src="MockUp Design Improve\After(2).png">
+Perubahan yang kami buat yaitu:
+
+1. Menghapus menu "Contact Us" pada laman situs Switch Mobile. Sebab, menu tersebut berisi form yang akan diisi bila pengguna memiliki pertanyaa, keluhan dll, sedangkan pada menu "Hello" di sudut kanan bawah, bila diklik juga akan menampilkan form seperti pada menu "Contact Us". Menurut kami, itu suatu hal yang mubazir sehingga kami memutuskan untuk menghapus menu "Contact Us".
+
+2. Mengubah posisi tulisan "Powered by Smartfren" di footer, sebelumnya posisi tulisan tersebut berada di bawah deretan menu "Syarat Penggunaan", "Kebijakan Privasi" dll, namun menurut kami secara visual hal tersebut tersebut terlihat janggal sehingga kami memutuskan untuk mengubah posisi tulisan tersebut.
 
