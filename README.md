@@ -2,12 +2,12 @@
 
 **Team members:**
 - **Faris Rizky Ramadhan - 1313619022** (@chasstiefol)
-- **Abdullah Azzam -1313619030** (@Reezyx)    
-- **Rudiansyah Wijaya Pratama - 1313619028** (@pemeluksenja)
+- **Abdullah Azzam -1313619028** (@pemeluksenja)    
+- **Rudiansyah Wijaya Pratama - 1313619030** (@Reezyx)
+
 \
 \
-\
-<font size="4">
+<font size="5">
 
 > **[Task 1](https://github.com/chasstiefol/HCI/tree/master/Task%201)**
 
