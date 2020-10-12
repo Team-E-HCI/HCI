@@ -19,7 +19,7 @@ Task 1 Report: [Coming soon]()
 - [x] 1st Day: Discussion of why the app does having problem (recorded)
 - [x] 2nd Day: Two persons from your team are to works on competing design equipped with material design principle
 - [x] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your  team are also to involve random by passers for the voting (recorded)
-- [ ] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conduct dialogue with him and explain why your improved design is necessary. Listen to the feedback (recorded).
+- [x] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conductasd dialogue with him and explain why ymproved design is necessary. Listen to the feedback (recorded)
 - [ ] The output of this task is a report which summarize the process along with three streamed recording
 
 Sprint video: [Coming soon]()
