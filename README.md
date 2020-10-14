@@ -5,13 +5,18 @@
 2. Abdullah Azzam (1313619028)
 3. Rudiansyah Wijaya Pratama (1313619030)
 
+## About the App and Developer
+Aplikasi yang kami pilih bernama Tell. Aplikasi ini merupakan platform dimana kita dapat membagikan cerita kita dalam kondisi anonim. Kita juga dapat membaca cerita dari orang lain dan juga memberikan komentar tentang cerita tersebut.
+
+Aplikasi ini dikembangkan oleh Team Tell dengan *leader*-nya bernama Muhammad Hudya Ramadhana. Beliau saat ini adalah seorang mahasiswa dari Politeknik Negeri Jakarta dan juga seorang *Lead Software Engineer* di Soul Parking.
+
 ## Task 1
 - [x] Pick the app with fitting criteria
 - [x] Conduct an evaluation of the app in term of appearance and interaction control
 - [x] Give reasoning why it isn’t pleasant or cumbersome to use
 - [x] Pointed out the flaw in interaction control
-- [ ] Identify Key business use cases
-- [ ] The output of this task is key use cases, key activity diagrams, and narration
+- [x] Identify Key business use cases
+- [x] The output of this task is key use cases, key activity diagrams, and narration
 
 Task 1 Report: [Coming soon]()
 
@@ -22,8 +27,6 @@ Task 1 Report: [Coming soon]()
 - [x] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conductasd dialogue with him and explain why ymproved design is necessary. Listen to the feedback (recorded)
 - [ ] The output of this task is a report which summarize the process along with three streamed recording
 
-Sprint video: [Coming soon]()
-\
 Task 2 Report: [Coming soon]()
 
 ## Contributors
