@@ -8,7 +8,7 @@
 ## About the App and Developer
 Aplikasi yang kami pilih bernama Tell. Aplikasi ini merupakan platform dimana kita dapat membagikan cerita kita dalam kondisi anonim. Kita juga dapat membaca cerita dari orang lain dan juga memberikan komentar tentang cerita tersebut.
 
-Aplikasi ini dikembangkan oleh Team Tell dengan *leader*-nya bernama Muhammad Hudya Ramadhana. Beliau saat ini adalah seorang mahasiswa dari Politeknik Negeri Jakarta dan juga seorang *Lead Software Engineer* di Soul Parking.
+Aplikasi ini dikembangkan oleh Team Tell dengan *leader*-nya bernama Muhammad Hudya Ramadhana. Beliau saat ini adalah seorang mahasiswa dari Politeknik Negeri Jakarta dan juga seorang *Lead Software Engineer* di Soul Parking.<br> [More about developer](https://www.linkedin.com/in/kiddyxyz/)
 
 ## Task 1
 - [x] Pick the app with fitting criteria

@@ -1,6 +1,19 @@
 # TASK 1 REPORT
 
-## Use Case dan Activity Diagram
+## Design dan Interaction Flaw
+Berikut beberapa kekurangan dari segi desain dan interaksi menurut kami:
+1. Icon chat pada Bottom Bar yang rancu, sebab memiliki icon yang sama dengan Icon pada menu Fun Corner
+2. Ilustrasi pada Dashboard Page terlalu mendominasi padahal seharusnya first sight user pada menu Fun Corner dan Stories
+3. Bila klik Stories, akan tampil Categories dan Latest Stories. Seharusnya, demi konsistensi, ketika diklik akan muncul Categories seperti pada menu Fun Corner
+4. Pada timeline di Fun Corner, terdapat space di sebelah kiri yang cukup useless, menurut saya seharusnya jika ingin menyisakan space harusnya ada di kedua sisi, daripada hanya menyisakan sebelah sisi saja.
+5. Penggunaan icon pada menu Fun Corner menggunakan icon berwarna sedangkan pada menu Stories menggunakan icon shape flat, sehingga tidak konsisten
+6. Pada Stories, bila belum ada reply, maka kalimat notifikasi nya akan nabrak dan "masuk" ke dalam kolom komen
+7. Tidak adanya fitur share Stories
+8. Banner informasi yang terlalu besar terpampang di bawah header pada timeline Fun Corner
+9. Bila user mengirim postingan di Fun Corner dan ada user lain yang mengomentari postingan tersebut, tidak ada notifikasi yang masuk
+10. Penggunaan warna yang kurang "blend" pada beberapa bagian seperti pada timeline Fun Corner
+
+## Use Case and Activity Diagram
 <div>
     <img src="src/Tell Use Case.png" width="450px" height ="450px" float="left">
     <img src="src/Tell Activity Diagram.png" width="450px" height="450px">

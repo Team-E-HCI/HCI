@@ -19,7 +19,7 @@ Berikut kami lampirkan link terkait rekaman video kegiatan voting/pemilihan desa
 Terkait keterlibatan tester/voter, kami hanya menampilkan hasil desain dari masing-masing kandidat melalui fitur Screen Sharing di media Zoom. Kemudian, kami menjelaskan kepada tester/voter tersebut tentang hal apa saja yang kurang (secara desain) dari aplikasi tersebut, lalu menjelaskan dan menampilkan solusi untuk mengatasi kekurangan tersebut melalui fitur Screen Sharing tersebut. Terakhir, kami meminta tester/voter untuk memilih desain di antara dua kandidat dan meminta mereka untuk menyertakan alasan memilih desain tersebut.
 
 ## Day 4
-Berikut kami lampirkan link terkait rekaman video pemaparan desain yang terpilih oleh kandidat yang terpilih:<br>[Streaming Link]()
+Berikut kami lampirkan link terkait rekaman video pemaparan desain yang terpilih oleh kandidat yang terpilih:<br>[Streaming Link](https://youtu.be/LVDXXHD4q8Q)
 
 Berikut pemaparan detail tentang Material Design yang digunakan pada desain yang terpilih:
 - App bars: Top --> [Material Design](https://material.io/components/app-bars-top)<br>
