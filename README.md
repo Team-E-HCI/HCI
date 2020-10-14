@@ -18,16 +18,16 @@ Aplikasi ini dikembangkan oleh Team Tell dengan *leader*-nya bernama Muhammad Hu
 - [x] Identify Key business use cases
 - [x] The output of this task is key use cases, key activity diagrams, and narration
 
-Task 1 Report: [Coming soon]()
+Task 1 Report: [here](https://github.com/chasstiefol/HCI/tree/hw2/Task%201)
 
 ## Task 2
 - [x] 1st Day: Discussion of why the app does having problem (recorded)
 - [x] 2nd Day: Two persons from your team are to works on competing design equipped with material design principle
 - [x] 3rd Day: Each person to represent his/her design along with its navigation. At this stage of the day, your  team are also to involve random by passers for the voting (recorded)
 - [x] 4th Day: Appeal to customer. Your customer in this case is app developer. You are to conductasd dialogue with him and explain why ymproved design is necessary. Listen to the feedback (recorded)
-- [ ] The output of this task is a report which summarize the process along with three streamed recording
+- [x] The output of this task is a report which summarize the process along with three streamed recording
 
-Task 2 Report: [Coming soon]()
+Task 2 Report: [here](https://github.com/chasstiefol/HCI/tree/hw2/Task%202)
 
 ## Contributors
 1. Faris Rizky Ramadhan - *Ilmu Komputer Universitas Negeri Jakarta* - [chasstiefol](https://github.com/chasstiefol)

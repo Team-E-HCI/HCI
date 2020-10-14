@@ -1,6 +1,6 @@
 # TASK 2 REPORT
 
-Subtitle for video: [here]()
+Subtitle for video: [here](https://github.com/chasstiefol/HCI/tree/hw2/Task%202/Subtitle)
 
 ## Day 1
 Berikut kami lampirkan link terkait rekaman video diskusi tentang aplikasi yang kami analisa, Tell:<br>
@@ -14,7 +14,7 @@ Berikut kami lampirkan link terkait rekaman video diskusi tentang aplikasi yang 
 <img src="Design\Azzam\All.png">
 
 ## Day 3
-Berikut kami lampirkan link terkait rekaman video kegiatan voting/pemilihan desain dari dua kandidat, Abdullah Azzam dan Faris Rizky Ramadhan:<br>[Streaming Link]()
+Berikut kami lampirkan link terkait rekaman video kegiatan voting/pemilihan desain dari dua kandidat, Abdullah Azzam dan Faris Rizky Ramadhan:<br>[Streaming Link](https://youtu.be/A93-S98qShc)
 
 Terkait keterlibatan tester/voter, kami hanya menampilkan hasil desain dari masing-masing kandidat melalui fitur Screen Sharing di media Zoom. Kemudian, kami menjelaskan kepada tester/voter tersebut tentang hal apa saja yang kurang (secara desain) dari aplikasi tersebut, lalu menjelaskan dan menampilkan solusi untuk mengatasi kekurangan tersebut melalui fitur Screen Sharing tersebut. Terakhir, kami meminta tester/voter untuk memilih desain di antara dua kandidat dan meminta mereka untuk menyertakan alasan memilih desain tersebut.
 
