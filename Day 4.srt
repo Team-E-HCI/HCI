@@ -1,0 +1,1558 @@
+﻿1
+00:00:04,560 --> 00:00:13,040
+Rudi: Good evening for Mr. Hudya and the teams there is Ms. Tasya, Ms. Natasya, and Mr. Yudha.
+
+2
+00:00:13,480 --> 00:00:27,960
+Rudi: In this night we will have a meeting for the result of design after we voted earlier with passerby from other group.
+
+3
+00:00:29,680 --> 00:00:39,280
+Rudi: Okay. I want to ask permission to recording this discussion for proofing that we have submitted our design results.
+
+4
+00:00:40,680 --> 00:00:50,100
+Rudi: After we vote from the Faris's and Azzam's design, the result of the vote were chose the Azzam's design.
+
+5
+00:00:52,020 --> 00:00:56,980
+Rudi: Before we next to main discuss maybe there is something to say from faris? Please faris.
+
+6
+00:01:01,920 --> 00:01:03,880
+Faris: What is that, Rud? *Laughing*
+
+7
+00:01:06,260 --> 00:01:10,260
+Rudi: Before that, we want to introduce ourself. My name is Rudiansyah Wijaya Pratama.
+
+8
+00:01:10,880 --> 00:01:16,600
+Rudi: and there is my friends Abdullah Azzam who has contacted you sir, and Faris Rizky Ramadhan as our group leader.
+
+9
+00:01:18,680 --> 00:01:19,420
+Mr. Hudya: Good. Good.
+
+10
+00:01:19,600 --> 00:01:22,500
+Rudi: Our leader. If you have something to say.
+
+11
+00:01:25,300 --> 00:01:25,800
+Faris: Do you hear me?
+
+12
+00:01:27,980 --> 00:01:28,880
+Rudi: Yes, I can hear you.
+
+13
+00:01:35,680 --> 00:01:43,800
+Faris: Maybe as group leader I want to say thanks for Mr.Hudya and Teams Who has taken your time to attend this meeting tonight.
+
+14
+00:01:44,300 --> 00:01:53,380
+Faris: So suddenly contacted you to ask for critic your design.
+
+15
+00:01:53,380 --> 00:01:55,380
+Faris: Like unpleasant
+
+16
+00:01:55,880 --> 00:01:56,380
+Mr. Hudya: Ok
+
+17
+00:01:56,660 --> 00:02:03,480
+Faris: Yes maybe I just wanna say thanks and I want to apologize if there are words that are not pleasant to hear.
+
+18
+00:02:05,720 --> 00:02:06,420
+Mr. Hudya: Calm calm.
+
+19
+00:02:09,100 --> 00:02:18,140
+Faris: Then also a little bit tells that the tasks is to implement the google design sprint.
+
+20
+00:02:20,300 --> 00:02:24,600
+Faris: For the example for the first day we must decide the design will look like.
+
+21
+00:02:26,240 --> 00:02:33,400
+Faris: Then for the second day actually for two days the second and the third day is for designing mockup, yesterday is vote the best design
+
+22
+00:02:33,400 --> 00:02:44,700
+Faris: and this is the last day which is the fourth day is for presented our design to user where the user in this task is the developer app.
+
+23
+00:02:45,640 --> 00:02:46,660
+Faris: Approxiately like that.
+
+24
+00:02:47,280 --> 00:02:55,820
+Rudi: Ok just go ahead without talk too much. Please Azzam to presentate the design.
+
+25
+00:02:57,720 --> 00:03:03,640
+Azzam: Well before that I want to say good evening let me introduce myself, my name is Abdullah Azzam.
+
+26
+00:03:05,340 --> 00:03:15,200
+Azzam: So I want to start, actually it's just knowledegeable analysis from me because I don't have basic design at all.
+
+27
+00:03:17,520 --> 00:03:21,660
+Azzam: So I made this design pure of subjectively from me.
+
+28
+00:03:22,400 --> 00:03:23,540
+Mr. Hudya: Ok no problem.
+
+29
+00:03:23,540 --> 00:03:23,560
+Azzam: Please allow me to share screen.
+Mr. Hudya: Ok no problem.
+
+30
+00:03:23,560 --> 00:03:24,760
+Azzam: Please allow me to share screen.
+
+31
+00:03:25,180 --> 00:03:25,740
+Rudi: Ok Ok
+
+32
+00:03:26,480 --> 00:03:35,400
+Azzam: Well can I get started. So if we open the "Tell" application will display homepage like this.
+
+33
+00:03:36,260 --> 00:03:45,440
+Azzam: So if we open the "Tell" application will display homepage like this. in this homepage there are people illustration, notification button, fun corner menu, stories menu, home button, and chatting button.
+
+34
+00:03:48,900 --> 00:03:59,480
+Azzam: In my opinion, in homepage there is bubble chat logo. I think this bubble chat logo is shortcut to enter the fun corner's room.
+
+35
+00:04:00,260 --> 00:04:08,160
+Azzam: Because fun corner's room have a bubble speech logo and this is too. So I think this is shortcut feature.
+
+36
+00:04:08,400 --> 00:04:17,140
+Azzam: But when I pressed this button, *searching photos*  it turned out to be in the chat room instead.
+
+37
+00:04:17,140 --> 00:04:27,860
+Azzam: So in my point of view, maybe between the chat room button or fun corner logo must be changed. So that user can't be missconcepsion about this bubble chat icon.
+
+38
+00:04:28,360 --> 00:04:40,240
+Azzam: So users can distinguish icon between fun corner room and private chat room or the fun corner icon can be changed or conversly. Like that for my point of view.
+
+39
+00:04:40,940 --> 00:04:42,740
+Mr. Hudya: Ok.
+Azzam: So users are not misunderstand.
+
+40
+00:04:43,360 --> 00:04:51,460
+Azzam: Then for illustration, there is 2 people who are chatting with other people.
+
+41
+00:04:51,720 --> 00:05:01,680
+Azzam: In my opinion, literally from my opinion the illustration is too big.
+
+42
+00:05:01,680 --> 00:05:14,780
+Azzam: Because mostly in homepage application, *Freezing* the feature like fun corner and stories must be highlighted.
+
+43
+00:05:14,780 --> 00:05:27,300
+Azzam: But the illustration looks more dominating. So the fun corner room and stories is located under the illustration. So it is like the second side and it doesn't look like a first side for users.
+
+44
+00:05:27,300 --> 00:05:38,760
+Azzam: I mean the illustrator is the first side and that menus like the second side. So this should be the fitting drift *Freezing*   Mr. Hudya: Okay Interesting.   Azzam: first side for user when saw the homepage.
+
+45
+00:05:39,760 --> 00:05:47,340
+Azzam: Actually I have been made the improve design literally my improve design. For the origin immprove...
+Azzam: where it is? Ah it is.
+
+46
+00:05:48,620 --> 00:05:58,220
+Azzam: So as I said earlier this is for replacing an icon bubble chat for chat feature sir.
+
+47
+00:05:58,220 --> 00:06:05,760
+Azzam: So users know that this icon for chat, for mail and users are not misunderstanding as before.
+
+48
+00:06:06,580 --> 00:06:06,960
+Mr. Hudya: Ok.
+
+49
+00:06:06,960 --> 00:06:17,940
+Azzam: Then I added in homepage, a feature as I said before on the homepage it should explain the contents of application to make it more interesting.
+
+50
+00:06:18,360 --> 00:06:31,000
+Azzam: Therefor in this section I added feature popular on stories so users know the popular stories that are often read by other users.
+
+51
+00:06:31,340 --> 00:06:41,680
+Azzam: So for other user when they just entered the application an see the homepage, they are curious with stories which have tittle interesting for read.
+
+52
+00:06:42,000 --> 00:06:53,060
+Azzam: For example there is story with tittle "Semester 5 is hell" and accidential users also in semester 5, maybe he think the story is relate so users want to read that story in this popular stories.
+
+53
+00:06:53,860 --> 00:06:56,820
+Azzam: So it can attracts the user curiousity.
+
+54
+00:06:57,300 --> 00:07:12,960
+Azzam: Then in "Tells" application also fun corner feature, it likens simple version of stories like we send something, ask something, and write something anonymously but a simple version of stories sir.
+
+55
+00:07:13,180 --> 00:07:28,520
+Azzam: So I purposely made this like trending on fun corner actually the concept is same with popular on stories just because the contents are less than stories, so I only fill this with the main content.
+
+56
+00:07:28,520 --> 00:07:40,280
+For example there is main post like "Kotlin vs Java" and there is main post like "Circle Tofu team or Circle Earth team" so that users are interesting for discuss the topic.
+
+57
+00:07:40,280 --> 00:07:52,700
+Azzam: Like for example there are users that kotlin user and he think kotlin is better than than java so they can pressed that topic and he can join the discussion then chatting with other users.
+
+58
+00:07:53,840 --> 00:07:55,880
+Azzam: Therefor I made like this.
+
+59
+00:07:56,560 --> 00:08:05,780
+Azzam: Then as alternative for fun corner and stories menus as I said that fun corner and stories must be first side for users.
+
+60
+00:08:06,560 --> 00:08:18,140
+Azzam: Well I created electronic banner like this and I inspirated from Shopee application because in shopee there is an electronic banner for attracted user attention.
+
+61
+00:08:18,380 --> 00:08:25,220
+Azzam: If we pressed, we will be taken to page from that banner.
+
+62
+00:08:25,240 --> 00:08:28,020
+Azzam: So it is just for menu replacement.
+
+63
+00:08:28,020 --> 00:08:41,080
+Azzam: Besides for the first side, it can be taken user to enter the room just for pressed the banner. So it can be efficient.
+
+64
+00:08:42,020 --> 00:08:42,740
+Mr. Hudya: Hmm okay.
+
+65
+00:08:44,560 --> 00:08:56,160
+Azzam: and then I added dropdow menu in this place. The contents of dropdown menu are my profile, my post, my stories, my bookmark, and my library.
+
+66
+00:08:56,820 --> 00:09:13,420
+Azzam: Why I add this? Because for the example this my profile in "Tell" application we must entered stories room before. We entered stories, then in stories there is my profile.
+
+67
+00:09:15,080 --> 00:09:26,740
+Azzam: In my opinion why not put it homepage together. So users can accessed easily.
+
+68
+00:09:26,740 --> 00:09:37,820
+They just pressed the dropdown menu and there is my profile and they can access their profile. So they don't have to enter stories room earlier to access my profile.
+
+69
+00:09:39,560 --> 00:09:56,920
+Azzam: This my posts feature is for posts that users have been sent at fun corner. So if we pressed my posts button, the users can see their posts who has made before in fun corner.
+
+70
+00:09:58,120 --> 00:10:16,360
+Azzam: The purpose is for example user have been wrote very cringe post 5 months ago, when he open that post and he already repetance they want to change or delete that post.
+
+71
+00:10:16,360 --> 00:10:23,740
+Well than he should entered to fun corner room and choose a category then users must scrooled down untill they found their stories,
+
+72
+00:10:23,740 --> 00:10:34,120
+Azzam: better the button dropped here to make it easy when users want to changed their posts. They just going to my post and they can find their post.
+
+73
+00:10:36,260 --> 00:10:47,260
+Azzam: Actually my stories feature not too much different with my stories feature which exists in my profile like the users can find out that users has written something.
+
+74
+00:10:47,260 --> 00:10:59,020
+Azzam: and it is not too much different with my bookmarks with purpose to make it easy so it dropped to dropdown menu in homepage in my opinion.
+
+75
+00:11:00,800 --> 00:11:21,920
+Azzam: Well for my library, the purpose is to users that want to read a long story and that user doesn't have much time to read that story,
+
+76
+00:11:23,080 --> 00:11:32,580
+Azzam: and when he have time but evidently the stories are pile up so he will be in trouble for scrolling the stories.
+
+77
+00:11:32,580 --> 00:11:46,460
+Azzam: Therefor I made my library  for users know the stories he has read before. If they want to read stories they had not finished yet, he can pressed my library feature in their homepage. Like that.
+
+78
+00:11:47,160 --> 00:11:47,660
+Mr. Hudya: Ok.
+
+79
+00:11:49,660 --> 00:11:53,640
+Azzam: and then we entered fun corner menu.
+
+80
+00:12:02,040 --> 00:12:11,060
+Azzam: If we pressed my corner button from homepage, it will display several categories in fun corner.
+
+81
+00:12:12,360 --> 00:12:25,140
+Azzam: Well in my opinion, There is sofa icon which symbolizes zone where we can chatting and share story in fun corner.
+
+82
+00:12:25,360 --> 00:12:36,460
+Azzam: But in my opinion it should be oppacity of sofa icon don't be lowered because it is like the icon merges with the background.
+
+83
+00:12:37,760 --> 00:12:53,040
+Azzam: Maybe for some people who they don't have low visualization, I mean they can't see, but they have little problem with their visualization like for example minus or etc so to see the icon maybe will have trouble.
+
+84
+00:12:54,940 --> 00:13:02,320
+Azzam: So I think to make this icon must be span out like this so it is like doesn't blend with the background and users know that this shape is like sofa icon.
+
+85
+00:13:03,800 --> 00:13:16,220
+Azzam: and then there is arts menu in fun corner categories.
+
+86
+00:13:17,880 --> 00:13:43,020
+Azzam: But when I pressed *Freezing* art menu, there are music topic like for newest discuss a lyric of song, discuss a podcast. So it is like a song topic, and then who actually discuss art topic is just a little bit.
+
+87
+00:13:44,090 --> 00:13:56,130
+Azzam: Therefor than maybe users that disucss about arts topic are not much, better to broken down arts topic to music categories.
+
+88
+00:13:56,130 --> 00:14:06,470
+Azzam: So users who want to posts about music topics can entered music room, and I added 4 other categories there are movie, confession, and book.
+
+89
+00:14:06,480 --> 00:14:17,380
+Azzam: Well music and movie are the result of broken down from arts. So than the users only discuss about both of this topic and they don't discuss arts topic,
+
+90
+00:14:17,380 --> 00:14:24,300
+Azzam: better for arts is erased and replaced with music and movie so that categories can be usefull.
+
+91
+00:14:24,340 --> 00:14:38,620
+Azzam: So than we entered arts topic but the topic discussion is discussed for 30 days ago and 10 days ago until rarely, better *Freezing* created a separate category.
+
+92
+00:14:39,420 --> 00:14:53,300
+Azzam: Then for the confession this is I inspirated from confession bear spongebob because in fun corner the users can write, ask, can do anything as anonymous person.
+
+93
+00:14:53,300 --> 00:15:02,060
+Azzam: Therefor in this confession room we can confessed anything like confessed romance, confessed the shameful things.
+
+94
+00:15:02,340 --> 00:15:11,120
+Azzam: Like for example I can confess that long time ago I have been bridgewalk from Jakarta to Bandung or else that has been done before.
+
+95
+00:15:11,120 --> 00:15:21,280
+and the main idea is to make a focus confession, because I worry that in lounge will fulfilled with confess.
+
+96
+00:15:21,280 --> 00:15:28,280
+Azzam: Supposed th Lounge drawned by the Confess, I think the Confess should be the focused one
+
+97
+00:15:28,280 --> 00:15:33,280
+Azzam: So people can be like, "Oh I want to confess this, I want to confess that."
+
+98
+00:15:33,280 --> 00:15:41,280
+Azzam: And the Book is actually Art's fraction, so if people want to read book there'll be much recomendation
+
+99
+00:15:41,280 --> 00:15:53,280
+Azzam: And now about Fun Corner timeline, for example we use Art category
+
+100
+00:15:53,280 --> 00:16:03,280
+Azzam: This is an information, right? It said that Tell want to be updated
+
+101
+00:16:03,280 --> 00:16:08,280
+Azzam: And before there's also information about Tell will be available on IOS
+
+102
+00:16:08,280 --> 00:16:14,280
+Azzam: So this is like a news about Tell, right...
+
+103
+00:16:14,280 --> 00:16:25,280
+Azzam: But if it's put here, I think like something wrong, and the information is too big
+
+104
+00:16:28,280 --> 00:16:38,280
+Azzam: And that's why in the Home I made an electronic banner, like Carousel
+
+105
+00:16:38,280 --> 00:16:46,280
+Azzam: This was made so can be used to put information like that
+
+106
+00:16:46,280 --> 00:16:56,280
+Azzam: Like "Tell want to be updated, please submit the questionaire so Tell can be better."
+
+107
+00:16:57,280 --> 00:17:04,280
+Azzam: So it won't take much space in Fun Corner
+
+108
+00:17:04,280 --> 00:17:07,280
+Azzam: And that's from my point of view
+
+109
+00:17:07,280 --> 00:17:15,280
+Azzam: And another point of view of mine is about the timeline, there are some spaces on the right side
+
+110
+00:17:15,280 --> 00:17:30,280
+Azzam: I think if there's a space on the one side, so on the other side must be a space too, I think that's more comfortable to see
+
+111
+00:17:30,280 --> 00:17:41,280
+Azzam: So the solutions are add some spaces too on the other side, or just delete them all
+
+112
+00:17:55,280 --> 00:18:06,280
+Azzam: And this is my idea about Fun Corner timeline
+
+113
+00:18:07,280 --> 00:18:17,280
+Azzam: Like I said before if there's a space on the one side, so on the other side must be a space too, so it's more comfortable to see
+
+114
+00:18:17,280 --> 00:18:21,280
+Azzam: So don't put that spaces only on one side
+
+115
+00:18:25,280 --> 00:18:32,280
+Azzam: Or just stick both sides to the border
+
+116
+00:18:32,280 --> 00:18:38,280
+Azzam: Actually my design insipred from group chat
+
+117
+00:18:41,280 --> 00:18:48,280
+Azzam: The purpose is I want the users feel comfortable and safe to send anonymous post
+
+118
+00:18:48,280 --> 00:18:58,280
+Azzam: Like in a group chat, we feel safe because in that group there only our closest person
+
+119
+00:18:58,280 --> 00:19:08,280
+Azzam: So we'll feel safe to post everything
+
+120
+00:19:08,280 --> 00:19:20,280
+Azzam: That's why I made the display like this so the users will feel like chatting with their friends
+
+121
+00:19:21,280 --> 00:19:34,280
+Azzam: Although if we post something terrible, but the users will feel more comfortable, that's why I made it like this
+
+122
+00:19:37,280 --> 00:19:43,280
+Azzam: And I also add Popular and Recent features
+
+123
+00:19:43,280 --> 00:20:02,280
+Azzam: So for example like in Recent, the users now will know what is other users listen now
+
+124
+00:20:02,280 --> 00:20:10,280
+Azzam: So like, "Oh user C is covering this song, user B have released this song."
+
+125
+00:20:10,280 --> 00:20:18,280
+Azzam: So the users will know new update in that category
+
+126
+00:20:18,280 --> 00:20:33,280
+Azzam: And for the Popular, suppose there're posts about "Avenged Sevenfold recommended songs" or "BTS reccomended songs"
+
+127
+00:20:33,280 --> 00:20:41,280
+Azzam: Usually posts like that will be a lot of loves and replies
+
+128
+00:20:41,280 --> 00:20:54,280
+Azzam: So the users will know what is popular in that category
+
+129
+00:20:54,280 --> 00:21:01,280
+Azzam: And if like this, the users just have to click Popular tab and click the post
+
+130
+00:21:11,280 --> 00:21:19,280
+Azzam: So like if they're searching for recommended song, they just go to Popular, that's my idea
+
+131
+00:21:19,280 --> 00:21:24,280
+Azzam: And I also add Search feature
+
+132
+00:21:24,280 --> 00:21:33,280
+Azzam: Before there's no Search feature, I add the Search Feature, why?
+
+133
+00:21:33,280 --> 00:21:49,280
+Azzam: For example in Music Category, and suppose Tell users have reach 10 million, so the update will be very fast
+
+134
+00:21:49,280 --> 00:21:57,280
+Azzam: So for example the users want to know Taylor Swift recommended songs
+
+135
+00:21:57,280 --> 00:22:05,280
+Azzam: But they can't find it in Popular and Recent because the fast update
+
+136
+00:22:05,280 --> 00:22:21,280
+Azzam: That's why I add Seacrh so users will easily find post they want to read, they only have to search it
+
+137
+00:22:21,280 --> 00:22:25,280
+Azzam: And if the users searching, the post will surely appear
+
+138
+00:22:26,280 --> 00:22:29,280
+Azzam: Oh this is Taylor Swift's recomended songs
+
+139
+00:22:29,280 --> 00:22:32,280
+Azzam: And they just have to read the comments
+
+140
+00:22:33,280 --> 00:22:36,280
+Azzam: Oh this is Taylor Swift's recomended song, Back to December
+
+141
+00:22:36,280 --> 00:22:39,280
+Azzam: They just have to love or screenshot the post
+
+142
+00:22:40,280 --> 00:22:44,280
+Azzam: They also can add to their bookmark, so if they want to read again in the other time they can open it again
+
+143
+00:22:44,280 --> 00:22:49,280
+Azzam: They know what song that they want to hear
+
+144
+00:22:53,280 --> 00:22:55,280
+Azzam: Ok, now to this display
+
+145
+00:22:56,280 --> 00:23:01,280
+Azzam: If we click a post in Fun Corner
+
+146
+00:23:01,280 --> 00:23:08,280
+Azzam: In the right side there are some space, back to my comment earlier
+
+147
+00:23:08,280 --> 00:23:11,280
+Azzam: If we want put some space on the right, we have to put on the left too
+
+148
+00:23:12,280 --> 00:23:17,280
+Azzam: Or just delete them all like the one I created
+
+149
+00:23:18,280 --> 00:23:21,280
+Azzam: Earlier, I made the chat bubble with some spaces on the right and left side
+
+150
+00:23:22,280 --> 00:23:29,280
+Azzam: But when clicked, I made it full 'cause I think it's more visually appealing
+
+151
+00:23:29,280 --> 00:23:34,280
+Azzam: If we don't want to have some spaces just delete them all, but if we want, we must put it on the right and left side
+
+152
+00:23:37,280 --> 00:23:39,280
+Azzam: And then to the stories
+
+153
+00:23:39,280 --> 00:23:48,280
+Azzam: Oh I forgot, I think there is a bug in fun corner
+
+154
+00:23:49,280 --> 00:23:56,280
+Azzam: I have made this post before, "fun main() ", the kotlin one
+
+155
+00:23:57,280 --> 00:23:59,280
+Azzam: But when I checked it again...
+
+156
+00:23:59,280 --> 00:24:03,280
+Azzam: I created the post 5 days ago
+
+157
+00:24:03,280 --> 00:24:09,280
+Azzam: When I checked again, apparently there are 6 replies, but...
+
+158
+00:24:11,280 --> 00:24:13,280
+Azzam: There is nothing in my notification
+
+159
+00:24:15,280 --> 00:24:17,280
+Azzam: The notificiation is empty
+
+160
+00:24:18,280 --> 00:24:21,280
+Azzam: So I think that's probably a bug
+
+161
+00:24:21,280 --> 00:24:28,280
+Azzam: The flaw is there, "Oh there is a reply", earlier I guess there was no reply, but there it is
+
+162
+00:24:30,280 --> 00:24:34,280
+Azzam: Ok now aboout The Stories
+
+163
+00:24:35,280 --> 00:24:39,280
+Azzam: When we click stories the dsiplay turned to this
+
+164
+00:24:39,280 --> 00:24:43,280
+Azzam: There are stories, categories, and latest stories
+
+165
+00:24:43,280 --> 00:24:48,280
+Azzam: In my opinion this is..., it's just my knowledgeably opinion
+
+166
+00:24:48,280 --> 00:24:50,280
+Azzam: Before in Fun Corner
+
+167
+00:24:53,280 --> 00:24:59,280
+Azzam: The menu is like this, when clicked there are some categories
+
+168
+00:24:59,280 --> 00:25:05,280
+Azzam: But why when we click stories, the categories are here? And there are latest stories here?
+
+169
+00:25:06,280 --> 00:25:15,280
+Azzam: In my point of view, why not when we click stories appear some categories too like in fun corner, and then...
+
+170
+00:25:16,280 --> 00:25:22,280
+Azzam: The "Latest Stories" is in the category, like this
+
+171
+00:25:23,280 --> 00:25:28,280
+Azzam: So when we click stories, the display is like the one in fun corner
+
+172
+00:25:28,280 --> 00:25:35,280
+Azzam: Only the background is made differently, like in here the background is different to identify each other
+
+173
+00:25:36,280 --> 00:25:42,280
+Azzam: For example, "Oh the pink one is stories about romance, the green one is about school."
+
+174
+00:25:42,280 --> 00:25:48,280
+Azzam: It's just the same, actually I just made it so that the categories appear immediately
+
+175
+00:25:49,280 --> 00:25:54,280
+Azzam: And when we click a category, the posts appear
+
+176
+00:25:55,280 --> 00:26:01,280
+Azzam: What are the stories that have been sent by others, and the latest stories will go to recent tab
+
+177
+00:26:01,280 --> 00:26:06,280
+Azzam: And there is also popular tab, like 'what is the story with the most feedbacks
+
+178
+00:26:06,280 --> 00:26:15,280
+Azzam: And in the recent tab we could know what is the newest posted story
+
+179
+00:26:18,280 --> 00:26:24,280
+Azzam: For example, if we click on "Love Life", then the stories will appear like this
+
+180
+00:26:25,280 --> 00:26:31,280
+Azzam: Well, for example if we click on a story, then the display will be like this
+
+181
+00:26:32,280 --> 00:26:35,280
+Azzam: For example the "Dear, Mas" story, if clicked the display will be like this
+
+182
+00:26:35,280 --> 00:26:40,280
+Azzam: Actually, my comment is just the same, if on the left side there are some spaces, then on the other side there must some spaces too
+
+183
+00:26:40,280 --> 00:26:49,280
+Azzam: But this is a story, if we add spaces on both sides, the text will shrink to the center, so it doesn't seem good
+
+184
+00:26:49,280 --> 00:26:52,280
+Azzam: So it's better if in the stories, the display is made full
+
+185
+00:26:53,280 --> 00:27:04,280
+Azzam: And if the post not commented yet, the "the story doesn't have any comments" text is overflow to the comment box
+
+186
+00:27:04,280 --> 00:27:13,280
+Azzam: So probably this is a flaw, I think the catbowl image can be shrinked
+
+187
+00:27:13,280 --> 00:27:23,280
+Azzam: And there is a dropdown arrow, if we click that the full story is just appeared
+
+188
+00:27:24,280 --> 00:27:32,280
+Azzam: The content of the story is just appeared, in my point of view, why don't immidately appear like this
+
+189
+00:27:32,280 --> 00:27:39,280
+Azzam: So for example a user click on stories, "oh the title is interesting, 'Dear, Mantan' I want to read it"
+
+190
+00:27:39,280 --> 00:27:46,280
+Azzam: And when clicked, the whole story is immidiately appear, this is the title and this is the content
+
+191
+00:27:46,280 --> 00:28:00,280
+Azzam: So like the user must not click the title and the dropdown arrow, it's better after we click the title we immidiately moved to this page
+
+192
+00:28:01,280 --> 00:28:02,280
+Azzam: Just like that
+
+193
+00:28:10,280 --> 00:28:12,280
+Azzam: And this is the share feature
+
+194
+00:28:13,280 --> 00:28:16,280
+Azzam: In the stories before, where is it...
+
+195
+00:28:21,280 --> 00:28:22,280
+Azzam: Here it is
+
+196
+00:28:22,280 --> 00:28:27,280
+Azzam: If we click the three dots, there are just 'report story' and 'bookmark'
+
+197
+00:28:28,280 --> 00:28:36,280
+Azzam: What if the story is very interesting and very good, but we cannot share that, therefore I add the share feature
+
+198
+00:28:36,280 --> 00:28:45,280
+Azzam: So here I add a feature so we can share a story and other people can read it too
+
+199
+00:28:45,280 --> 00:28:57,280
+Azzam: So like "You know 'Dear, Mantan' story on Tell is pretty interesting, you must read it too", so other people can be interested to download Tell and read this story
+
+200
+00:29:03,280 --> 00:29:06,280
+Azzam: Oh here is the display when there is no comment
+
+201
+00:29:07,280 --> 00:29:11,280
+Azzam: And here the comment section of this post
+
+202
+00:29:11,280 --> 00:29:17,280
+Azzam: I separate the comment section from the story, to minimize something like this
+
+203
+00:29:18,280 --> 00:29:25,280
+Azzam: Like the overflowed text here, to overcome this we can minimize the text or made the comment section separately like this
+
+204
+00:29:25,280 --> 00:29:27,280
+Azzam: So there are just comments here
+
+205
+00:29:29,280 --> 00:29:36,280
+Azzam: So that the text doesn't overflowed and it's more focused that this is for comment, and this is the post
+
+206
+00:29:39,280 --> 00:29:45,280
+Azzam: So if the comment section is separated, if the post is not commented yet there just an empty space
+
+207
+00:29:45,280 --> 00:29:48,280
+Azzam: We know immidiately "Oh no one here yet" and back to the post
+
+208
+00:29:50,280 --> 00:29:57,280
+Azzam: Or probably we want to comment to be the first comment, so this text doesn't overflow to the comment box
+
+209
+00:30:07,280 --> 00:30:11,280
+Azzam: Oh and this is a post that have 'show more' in it
+
+210
+00:30:11,280 --> 00:30:16,280
+Azzam: The content is "Is there someone that want to help me blablabla blablabla" and this is a fun corner post
+
+211
+00:30:16,280 --> 00:30:19,280
+Azzam: In the one of the category in fun corner
+
+212
+00:30:19,280 --> 00:30:24,280
+Azzam: But there is a show more here, apparently when it's clicked the content is just the same
+Mr. Hudya: There is nothing
+
+213
+00:30:24,280 --> 00:30:26,280
+Azzam: Yes, the content is just the same
+Mr. Hudya: I know
+
+214
+00:30:27,280 --> 00:30:31,280
+Azzam: There might be a bug and probably can be improved
+
+215
+00:30:31,280 --> 00:30:34,280
+Mr. Hudya: That is exactly a bug, there's no way it's fine
+
+216
+00:30:38,280 --> 00:30:46,280
+Azzam: I think that's it the knowledgeably analysis from me the one that doesn't have design basics
+
+217
+00:30:46,280 --> 00:30:48,280
+Mr. Hudya: Ok, it's interesting
+
+218
+00:30:48,280 --> 00:30:49,280
+Azzam: And thank you
+
+219
+00:30:49,280 --> 00:30:56,280
+Azzam: I might can have feedbacks from Mr. Hudya and team about my analysis so that I can be improved too
+
+220
+00:30:57,280 --> 00:31:03,280
+Mr. Hudya: Ok guys I'll be the first one because I fried the takoyaki not cooked enough
+
+221
+00:31:07,280 --> 00:31:12,280
+Mr. Hudya: Ok about the dashboard, I dont' comment it in terms of UI/UX
+
+222
+00:31:12,280 --> 00:31:14,280
+Mr. Hudya: There some other thing that I want to "touch"
+
+223
+00:31:14,280 --> 00:31:19,280
+Mr. Hudya: The first thing is in terms of the dashboard, actually we have three versions of Tell
+
+224
+00:31:19,280 --> 00:31:23,280
+Mr. Hudya: From version 1, 2, and 3, if you asked our old users
+
+225
+00:31:23,280 --> 00:31:29,280
+Mr. Hudya: We have version one, two, three, and actually we are in state of A/B test
+
+226
+00:31:31,280 --> 00:31:36,280
+Mr. Hudya: From the first to third version which one is the most beautiful dashboard?
+
+227
+00:31:36,280 --> 00:31:41,280
+Mr. Hudya: And that's why in the first version we made it this way, in the second version we made it this way, and in the third version we made it big like that
+
+228
+00:31:41,280 --> 00:31:49,280
+Mr. Hudya: One of them is we are also pursuing the approach of what can we do with the dashboard
+
+229
+00:31:50,280 --> 00:31:54,280
+Mr. Hudya: So I also target it in terms of business, not overall is about UI
+
+230
+00:31:54,280 --> 00:31:57,280
+Mr. Hudya: Bu I also understand that some of UI must be considered
+
+231
+00:31:57,280 --> 00:32:02,280
+Mr. Hudya: That's why I said we are in state of A/B test
+
+232
+00:32:03,280 --> 00:32:07,280
+Mr. Hudya: And the reason we make the questionnaire is to check how far the flaw is
+
+233
+00:32:08,280 --> 00:32:14,280
+Mr. Hudya: Ok about the problem that the category is too general, I want to give an overview
+
+234
+00:32:14,280 --> 00:32:24,280
+Mr. Hudya: Earlier you mentioned about arts, right? Actually when I make the categories I have personal thoughts too, why?
+
+235
+00:32:24,280 --> 00:32:30,280
+Mr. Hudya: Because in terms of myself, I understand the behavior of my users
+
+236
+00:32:30,280 --> 00:32:37,280
+Mr. Hudya: That's why, I also have some feedbacks, they say "it's better music and movie don't be combined", why?
+
+237
+00:32:37,280 --> 00:32:42,280
+Mr. Hudya: Because if arts not necessarily have a lot of users, moreover music and movie
+
+238
+00:32:42,280 --> 00:32:47,280
+Mr. Hudya: So that's why we minimize the scope to a totally general one
+
+239
+00:32:47,280 --> 00:32:54,280
+Mr. Hudya: So if talked about art wether it's music, wether it's painting, or anything, we put in "Art" category
+
+240
+00:32:54,280 --> 00:33:01,280
+Mr. Hudya: So that's why I don't separate it to art, movie, in fact we have plan to make mental health
+
+241
+00:33:01,280 --> 00:33:07,280
+Mr. Hudya: But we still looking how engaged users to that category
+
+242
+00:33:07,280 --> 00:33:09,280
+Mr. Hudya: So we haven't dared to separate generally
+
+243
+00:33:09,280 --> 00:33:14,280
+Mr. Hudya: I also still looking the behavior, that's why we don't separate all of them
+
+244
+00:33:14,280 --> 00:33:25,280
+Mr. Hudya: And we direct them to Lounge so that's why we put Lounge up there, so if they want OOT just use the Lounge
+
+245
+00:33:29,280 --> 00:33:32,280
+Mr. Hudya: And then the second thing about the Announcement that is too big
+
+246
+00:33:32,280 --> 00:33:38,280
+Mr. Hudya: Actually the Announcement in each category can be changed
+
+247
+00:33:38,280 --> 00:33:43,280
+Mr. Hudya: So if art the Announcement is like this, education is like this
+
+248
+00:33:43,280 --> 00:33:49,280
+Mr. Hudya: So that's why in A/B test we had a time doing a paid promote
+
+249
+00:33:49,280 --> 00:33:56,280
+Mr. Hudya: Apparently some of the users think that the Announcement is unique, why?
+
+250
+00:33:56,280 --> 00:34:05,280
+Mr. Hudya: Because for example I am paid promoting an item, in Arts and in Education how the ads is written is different but still related
+
+251
+00:34:05,280 --> 00:34:14,280
+Mr. Hudya: For example I am paid promoting an item that not related to education, but I made it like that's related
+
+252
+00:34:14,280 --> 00:34:21,280
+Mr. Hudya: Actually we want to know would they click it, how engaged they click it
+
+253
+00:34:21,280 --> 00:34:33,280
+Mr. Hudya: So that's why we made it like that, so we can customize it for soft selling and content purpose
+
+254
+00:34:33,280 --> 00:34:37,280
+Mr. Hudya: And back again we still in state of A/B test
+
+255
+00:34:37,280 --> 00:34:45,280
+Mr. Hudya: And then the third thing about the timeline design, earlier you mentioned that the box not balanced on both side
+
+256
+00:34:46,280 --> 00:34:50,280
+Mr. Hudya: Actually this design inspired by on of the design from Dribble
+
+257
+00:34:50,280 --> 00:35:01,280
+Mr. Hudya: And actually we still in A/B test, we've been made it looks like twitter, and we even changed it to swipe mode, and lastly we made it like this
+
+258
+00:35:01,280 --> 00:35:07,280
+Mr. Hudya: And the first impression of some users especially a woman, they said the design is very cute
+
+259
+00:35:07,280 --> 00:35:13,280
+Mr. Hudya: We are still in A/B test, and now I understand that design like this is cute
+
+260
+00:35:13,280 --> 00:35:17,280
+Mr. Hudya: Although I also understand in terms of UI/UX is not quite right
+
+261
+00:35:17,280 --> 00:35:22,280
+Mr. Hudya: But let's improve again, because we are still a startup
+
+262
+00:35:22,280 --> 00:35:31,280
+Mr. Hudya: And that's why the right side is sticking to the border, and on the left side we add some spaces for time label
+
+263
+00:35:31,280 --> 00:35:36,280
+Mr. Hudya: But I want to thank you for friends from UNJ for the awareness
+
+264
+00:35:36,280 --> 00:35:47,280
+Mr. Hudya: And I still discuss with UI/UX team which is the best timeline, so that's why we throw a questionnaire so we can make it better in the next version
+
+265
+00:35:47,280 --> 00:35:52,280
+Mr. Hudya: And then about Popular and Recent, actually we've done that in Tell 1
+
+266
+00:35:52,280 --> 00:36:01,280
+Mr. Hudya: But it's not in the current version because we still search the best approach cause it's still category based
+
+267
+00:36:01,280 --> 00:36:07,280
+Mr. Hudya: So don't let the Recent or Popular is from 30 days ago, I think that's too bad
+
+268
+00:36:07,280 --> 00:36:16,280
+Mr. Hudya: Cause earlier we've made the timeline like Twitter, the Popular is pretty quick cause they're still in one category and stacking each other
+
+269
+00:36:16,280 --> 00:36:32,280
+Mr. Hudya: So why we still don't make the Popular and Recent, because we still don't know the best approach, and we currently working for IOS version that made the general development slower
+
+270
+00:36:33,280 --> 00:36:38,280
+Mr. Hudya: And then about why we dont' display the whole story immidately
+
+271
+00:36:38,280 --> 00:36:42,280
+Mr. Hudya: In stories that you mentioned why don't the whole story appear immidately
+
+272
+00:36:42,280 --> 00:36:45,280
+Mr. Hudya: The answer is just the same, we're still in state of A/B test
+
+273
+00:36:45,280 --> 00:36:53,280
+Mr. Hudya: And I've had time take reference from Wattpad, from some design in Dribble
+
+274
+00:36:53,280 --> 00:36:58,280
+Mr. Hudya: And there is a design like this, and I think that will be interesting to try it
+
+275
+00:36:58,280 --> 00:37:01,280
+Mr. Hudya: But I also understand it's quite bad technichally
+
+276
+00:37:01,280 --> 00:37:10,280
+Mr. Hudya: But cause my CTO is very kind person, he help me to achieve my dream, so that's why we created it like this
+
+277
+00:37:10,280 --> 00:37:14,280
+Mr. Hudya: The reason is we want to know users feedback if we made the stories look like this
+
+278
+00:37:14,280 --> 00:37:18,280
+Mr. Hudya: Because typically like Wattpad if clicked the whole story will appear immidiately
+
+279
+00:37:18,280 --> 00:37:26,280
+Mr. Hudya: But the reason we made it like this is we want to give the cuteness side to users
+
+280
+00:37:26,280 --> 00:37:31,280
+Mr. Hudya: So that's why there's a short text like "Hey, how are you today?"
+
+281
+00:37:31,280 --> 00:37:35,280
+Mr. Hudya: We hope that can be like an opening to the story
+
+282
+00:37:35,280 --> 00:37:41,280
+Mr. Hudya: So they can skip if their first impression about the opening is not very interested
+
+283
+00:37:41,280 --> 00:37:45,280
+Mr. Hudya: but if they interested they can click the arrow and the whole story will appear
+
+284
+00:37:45,280 --> 00:37:50,280
+Mr. Hudya: And why the comment is in the lower side, I will also answer that we still A/B test
+
+285
+00:37:50,280 --> 00:37:57,280
+Mr. Hudya: But we also understand that the flaw from this UI that the text is quite tricky
+
+286
+00:37:57,280 --> 00:38:02,280
+Mr. Hudya: And we have a plan to develop it better
+
+287
+00:38:02,280 --> 00:38:08,280
+Mr. Hudya: We also know there's a bug that the text overflowed to the comment box
+
+288
+00:38:08,280 --> 00:38:17,280
+Mr. Hudya: But we can't make up this quick, so we solve the problems one by one cause we are still a startup
+
+289
+00:38:17,280 --> 00:38:23,280
+Mr. Hudya: And then about the comment that crashed
+
+290
+00:38:28,280 --> 00:38:35,280
+Mr. Hudya: Oh right, the comment was overflowed and I know that's a bug
+
+291
+00:38:35,280 --> 00:38:43,280
+Mr. Hudya: And the reason we put it there because if they just want to comment they can comment quickly
+
+292
+00:38:43,280 --> 00:38:54,280
+Mr. Hudya: Because of our users behavior that like just give a sign to a post like in Twitter
+
+293
+00:38:54,280 --> 00:39:00,280
+Mr. Hudya: And actually the behavior of all social media is just the same, so we try to created it like this to see that it's worked
+
+294
+00:39:00,280 --> 00:39:04,280
+Mr. Hudya: If it worked let's continue, but if not let's do a pivot
+
+295
+00:39:04,280 --> 00:39:14,280
+Mr. Hudya: I think that's from me, my reasoning is all about community because we very understand our community behavior
+
+296
+00:39:14,280 --> 00:39:21,280
+Mr. Hudya: And we still A/B test, we don't declare that this is us, we still attempting
+
+297
+00:39:21,280 --> 00:39:30,280
+Mr. Hudya: And why we still attempting? Because we don't have an investor, we still bootstraping, so if we just attempting there's not harmed party
+
+298
+00:39:30,280 --> 00:39:39,280
+Mr. Hudya: And if our users just run away, I'm sure they'll come back cause they don't have other option for anonymous apps
+
+299
+00:39:39,280 --> 00:39:46,280
+Mr. Hudya: Because we are still more popular from other anonymous apps that I surveyed
+
+300
+00:39:47,280 --> 00:39:56,280
+Mr. Hudya: I think that's from me, if want to know about the android engineering you can ask my CTO Tivo, and if about UI/UX I give it to Cornell
+
+301
+00:39:56,280 --> 00:40:00,280
+Mr. Hudya: Ok guys I'll leave a moment, I think the next would be Cornell or Tivo
+
+302
+00:40:04,280 --> 00:40:07,280
+Mr. Tivo: Ok I think from me
+
+303
+00:40:09,280 --> 00:40:11,280
+Mr. Hudya: Vo, I leave the burger menu problem
+
+304
+00:40:11,280 --> 00:40:13,280
+Mr. Tivo: Allright
+
+305
+00:40:14,280 --> 00:40:21,280
+Mr. Tivo: Actually a lot of my notes are already told by Hudya
+
+306
+00:40:22,280 --> 00:40:29,280
+Mr. Tivo: The reason we made it like that because of our users needs
+
+307
+00:40:29,280 --> 00:40:40,280
+Mr. Tivo: And the other reason is we still bootstraping, oh excuse me, we still A/B test
+
+308
+00:40:40,280 --> 00:40:48,280
+Mr. Tivo: So we always improving about which the best approach for our users
+
+309
+00:40:50,280 --> 00:40:55,280
+Mr. Tivo: Actually most of my comments have been told by Hudya, but...
+
+310
+00:40:55,280 --> 00:41:00,280
+Mr. Tivo: Some of my comments like about dashboard, can I look the dashboard again?
+
+311
+00:41:11,280 --> 00:41:19,280
+Mr. Tivo: Ah here it is, the first thing is I see there's a burger menu here
+
+312
+00:41:20,280 --> 00:41:34,280
+Mr. Tivo: The reason we don't put a burger menu there because we think it's "old school"
+
+313
+00:41:34,280 --> 00:41:45,280
+Mr. Tivo: I can tell that most of old android apps designs are using burger menu
+
+314
+00:41:46,280 --> 00:41:55,280
+Mr. Tivo: And the other reason we don't use it because it's too far, most of our users use the apps just with one hand
+
+315
+00:41:56,280 --> 00:42:03,280
+Mr. Tivo: Like scrolling with just right hand, and I think we all are the same not only our users
+
+316
+00:42:03,280 --> 00:42:06,280
+Mr. Tivo: We like to scroll with just right hand
+
+317
+00:42:08,280 --> 00:42:20,280
+Mr. Tivo: And then we must click the icon that on the left upper side, I think it's can be difficult so that's why we don't implement it
+
+318
+00:42:20,280 --> 00:42:29,280
+Mr. Tivo: And now I think a lot of apps have move on from burger menu
+
+319
+00:42:30,280 --> 00:42:43,280
+Mr. Tivo: About the dashboard I think the idea is good. It's focusing the whole features on one point
+
+320
+00:42:43,280 --> 00:42:52,280
+Mr. Tivo: But the flaw is the content here become messy
+
+321
+00:42:52,280 --> 00:42:55,280
+Mr. Tivo: For example like in the burger menu
+
+322
+00:42:57,280 --> 00:43:12,280
+Mr. Tivo: Yes it is, the content is messy. Users will be confused what is "My Profile", what is "My Posts", what is "My Stories", what is "My Bookmark", and what is "My Library"
+
+323
+00:43:12,280 --> 00:43:22,280
+Mr. Tivo: Like in the current design we are fully separating the Fun Corner and the Stories
+
+324
+00:43:22,280 --> 00:43:35,280
+Mr. Tivo: For example My Profile, actually there's not a Profile generally
+
+325
+00:43:35,280 --> 00:43:44,280
+Mr. Tivo: But there is a My Profile in Stories, actually it's the Profile of the stories
+
+326
+00:43:44,280 --> 00:44:03,280
+Mr. Tivo: To show how are the users doing with Stories, we also have a plan to make Badges, and many more like achievements
+
+327
+00:44:03,280 --> 00:44:06,280
+Mr. Tivo: That's for My Profile
+
+328
+00:44:07,280 --> 00:44:23,280
+Mr. Tivo: And my point about the dashboard is the part is not quitely clear. And can we back to the dashboard please?
+
+329
+00:44:25,280 --> 00:44:31,280
+Mr. Tivo: I think the Trending is good
+
+330
+00:44:31,280 --> 00:44:44,280
+Mr. Tivo: I understand Azzam's purpose to highlight all of the points like Topic on Twitter
+
+331
+00:44:45,280 --> 00:45:02,280
+Mr. Tivo: But on mobile the UI must be improved, because what users think about that is that's only an information
+
+332
+00:45:05,280 --> 00:45:09,280
+Mr. Tivo: It might can be a card, typically card
+
+333
+00:45:09,280 --> 00:45:24,280
+Mr. Tivo: And I still don't know was Azzam created it if we click there'll be topics related to it or not, that's the point
+
+334
+00:45:25,280 --> 00:45:37,280
+Mr. Tivo: And then back again to the swipe menu; the banner. There are Stories and Fun Corner
+
+335
+00:45:37,280 --> 00:45:46,280
+Mr. Tivo: We won't make the menu like that in our deal
+
+336
+00:45:46,280 --> 00:45:56,280
+Mr. Tivo: Because that's a banner and we think it's not quite right. Banner is usually for information
+
+337
+00:45:56,280 --> 00:46:04,280
+Mr. Tivo: Like Azzam mentioned earlier about put the Announcement in the banner I think that's a good advice
+
+338
+00:46:04,280 --> 00:46:15,280
+Mr. Tivo: But if the main features is put in the banner I think the users will be confused
+
+339
+00:46:18,280 --> 00:46:20,280
+Mr. Tivo: Hmmmm, what else...
+
+340
+00:46:24,280 --> 00:46:29,280
+Mr. Tivo: And then back again to Fun Corner
+
+341
+00:46:41,280 --> 00:46:51,280
+Mr. Tivo: I apreciate your advice about the spaces on the right and left side
+
+342
+00:46:51,280 --> 00:47:07,280
+Mr. Tivo: It's a good point, but like Hudya said we have tried that and we are still bootstraping, but we always look for users feedback
+
+343
+00:47:09,280 --> 00:47:12,280
+Mr. Tivo: But I think it's a good point
+
+344
+00:47:12,280 --> 00:47:19,280
+Mr. Tivo: And then about action button like Love and Share
+
+345
+00:47:19,280 --> 00:47:25,280
+Mr. Tivo: We are focusing it to the lower right side, why?
+
+346
+00:47:25,280 --> 00:47:36,280
+Mr. Tivo: Because we want the users to easily reach it with one hand, so they don't need the other hand to click it
+
+347
+00:47:36,280 --> 00:47:45,280
+Mr. Tivo: If the device is small I think it's ok, but if it's quite big like a Note Series I think that would be a problem
+
+348
+00:47:45,280 --> 00:47:59,280
+Mr. Tivo: But if it just an information like the comment amount or seen status I think that's ok
+
+349
+00:48:01,280 --> 00:48:08,280
+Mr. Tivo: Overall good especially the Popular and Recent that's a good advice
+
+350
+00:48:09,280 --> 00:48:12,280
+Mr. Tivo: Good job, I think that's from me
+
+351
+00:48:12,280 --> 00:48:14,280
+Azzam: Ok thank you
+
+352
+00:48:17,280 --> 00:48:20,280
+Mr. Hudya: Cornell, do you want to talk?
+
+353
+00:48:22,280 --> 00:48:24,280
+Ms. Cornell: I think all have been told throughoutly
+
+354
+00:48:27,280 --> 00:48:29,280
+Ms. Cornell: From me probably only about the margin
+
+355
+00:48:33,280 --> 00:48:34,280
+Ms. Cornell: What else...
+
+356
+00:48:42,280 --> 00:48:52,280
+Ms. Cornell: For the banner concern I want to inform about an article named "CTA (Call To Action)"
+
+357
+00:48:53,280 --> 00:49:00,280
+Ms. Cornell: That's also about engaging with users, but overall have been told by Hudya
+
+358
+00:49:00,280 --> 00:49:11,280
+Ms. Cornell: And then the typography could be researched more about the fonts, for the differantiation which have to be highlighted and not
+
+359
+00:49:13,280 --> 00:49:16,280
+Ms. Cornell: And then what else...., I think all have been told
+
+360
+00:49:16,280 --> 00:49:27,280
+Ms. Cornell: And if you want to know which the design good or not, like Hudya said just remember that the users's desire is critical
+
+361
+00:49:27,280 --> 00:49:36,280
+Ms. Cornell: Althought we think it's good, but the one that use it is users, and they will go away if they don't like it
+
+362
+00:49:38,280 --> 00:49:41,280
+Ms. Cornell: And the line spacing must be considered too
+
+363
+00:49:43,280 --> 00:49:51,280
+Mr. Hudya: Overall good job guys, I really apreciate it for a third semester student I think it's amazing seriously
+
+364
+00:49:53,280 --> 00:49:54,280
+Rudi & Azzam: Thank you very much
+
+365
+00:49:54,280 --> 00:50:04,280
+Mr. Hudya: Because you're don't have a design basics too but you can give an advice and an analysis althought it's subjective but that's ok
+
+366
+00:50:05,280 --> 00:50:10,280
+Mr. Hudya: But at least the point is you now understand from the developer side why we made it that way
+
+367
+00:50:10,280 --> 00:50:15,280
+Mr. Hudya:  Because we know you still haven't know the feel facing with users directly
+
+368
+00:50:15,280 --> 00:50:22,280
+Mr. Hudya: Seriously guys the users are very captious, although it's just a one second error but the rating will drop significanly
+
+369
+00:50:22,280 --> 00:50:34,280
+Mr. Hudya: But we also want to inform from the developer side although we made a design that doesn't make any sense, but what can we say if the users like it
+
+370
+00:50:34,280 --> 00:50:46,280
+Mr. Hudya: But indeed we will always improving, although they like it we will improve the UI so that it won't out of general principles
+
+371
+00:50:50,280 --> 00:51:02,280
+Rudi: Thank you for all, hopefully we can increase our knowledge
+
+372
+00:51:04,280 --> 00:51:05,280
+Rudi: Is there something you want to add?
+
+373
+00:51:09,280 --> 00:51:15,280
+Faris: I think from me is I want to thank you for the feedbacks
+
+374
+00:51:16,280 --> 00:51:23,280
+Faris: And I also want to sorry for the critics although we are just 3rd semester students, I think that's from me
+
+375
+00:51:30,280 --> 00:51:39,280
+Azzam: I also want to thank you for the feedback of my design, and now I understand why is the developer made it like that
+
+376
+00:51:39,280 --> 00:51:50,280
+Azzam: So in the future I can improve my UI/UX design not only from my view but with user's view too
+
+377
+00:51:51,280 --> 00:51:54,280
+Azzam: Thank you very much for the feedbacks, I think that's it
+
+378
+00:51:56,280 --> 00:52:00,280
+Mr. Hudya: Why don't you release that so we can rivaling?
+
+379
+00:52:00,280 --> 00:52:01,280
+Rudi: Rivaling....?!
+
+380
+00:52:02,280 --> 00:52:07,280
+Rudi: We are still in 3rd semester, we stll can't don anything
+Mr. Hudya: That will be interesting....
+
+381
+00:52:07,280 --> 00:52:11,280
+Mr. Hudya: Indeed, the point is you're from the one that can't do anything become the one that can do something
+
+382
+00:52:11,280 --> 00:52:19,280
+Mr. Hudya: We also make Tell from zero, from we can't do anything, still dumb in coding, but there it is now
+
+383
+00:52:19,280 --> 00:52:24,280
+Mr. Hudya: You have three people there, there can be UI/UX one,the mobile one, the back-end one
+
+384
+00:52:24,280 --> 00:52:30,280
+Mr. Hudya: Or suppose you want to release only a front-end website that's ok, at least you're trying
+
+385
+00:52:32,280 --> 00:52:40,280
+Rudi: Thank you for the advice, we really have new isights from you all
+
+386
+00:52:41,280 --> 00:52:47,280
+Rudi: For the addition I think we can talk it after this, probably now we will do a closing
+
+387
+00:52:48,280 --> 00:52:49,280
+Mr. Hudya: Yes of course
+
+388
+00:52:49,280 --> 00:53:01,280
+Rudi: Okay that's it for this assignment, see you on the next assignment
+
